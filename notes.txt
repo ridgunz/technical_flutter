@@ -1,0 +1,13 @@
+------------------------------------------------------------
+******************** Technical Test Flutter ****************
+******************** By Muhammad Ridwan ********************
+------------------------------------------------------------
+
+Notes : 
+* Menggunakan Flutter versi 3.10.5 dan dart versi 3.0.5
+* Sebelum run flutter, flutter clean dan flutter pub get terlebih dahulu
+* Jika ingin run flutter menggunakan macos lakukan (pod deintegrate && pod upgrade) terlebih dahulu pada folder ios
+* Menggunakan GetX sebagai state management
+* Menggunakan Dio untuk melakukan HTTP request
+
+
